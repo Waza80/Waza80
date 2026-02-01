@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm part of **YXU Team**, you can find my and [Zeltales](https://github.com/zeltales)'s projects here: https://github.com/yxuteam
 
 <!--
 **Waza80/Waza80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
